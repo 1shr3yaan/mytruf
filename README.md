@@ -33,47 +33,16 @@ mytruf-password-analyzer/
 |-- .gitignore
 ```
 
-## Installation and Setup
+# SENTINEL – Password Security Analyzer
 
-### 1. Clone the repository
+🚀 **Live Demo:** https://mytruf.streamlit.app
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
+💻 **GitHub Repository:** https://github.com/1shr3yaan/mytruf
 
-### 2. Navigate into the project
-
-```bash
-cd mytruf-password-analyzer
-```
-
-### 3. Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-### 4. Activate the environment on Windows
-
-```powershell
-.\venv\Scripts\Activate.ps1
-```
-
-### 5. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 6. Run the application
-
-```bash
-python -m streamlit run app.py
-```
 
 ## Important Note
 
-MYTRUF is an educational project. Its scoring system and entropy calculation are heuristic estimates, not professional security guarantees or a substitute for established password-security tools.
+MYTRUF is a python based project. Its scoring system and entropy calculation are heuristic estimates, not professional security guarantees or a substitute for established password security tools.
 
 The application processes password input locally and does not intentionally store or transmit it.
 
