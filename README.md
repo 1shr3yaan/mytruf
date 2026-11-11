@@ -33,7 +33,7 @@ mytruf-password-analyzer/
 |-- .gitignore
 ```
 
-# SENTINEL – Password Security Analyzer
+# MYTRUF – Password Security Analyzer
 
 🚀 **Live Demo:** https://mytruf.streamlit.app
 
